@@ -15,7 +15,7 @@ This project requires Python 3 (https://www.python.org/downloads/) to run, no ad
 2. Click the download link for Python 3.
 3. Click your recent downloads in browser or go to file explorer and click on the Python   download.
 4. Follow the wizard to install Python 3. 
-5. Download the Python file onto your computer. 
+5. Download the Python program file onto your computer. 
 
 ## Running
 Once installed you can run the program by opening command prompt and typing this command format.
