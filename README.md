@@ -1,7 +1,7 @@
 # Draw a triangle
 
-Using this program you can draw half of a triangle using "*".
-The program uses for loops to create a triangle with a height and width of 5 "*".
+Using this program you can draw half of a triangle using \*.
+The program uses for loops to create a triangle with a height and width of 5 \*.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ This project requires Python 3 (https://www.python.org/downloads/) to run, no ad
 ## Running
 Once installed you can run the program by opening command prompt and typing this command format.
 
-py (file extension to the Python program)\(Python file name)
+py (file extension to the Python program)\\(Python file name)
 
 example: 
 ```
