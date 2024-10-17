@@ -1,33 +1,32 @@
-# Project Title
+# Draw a triangle
 
-One Paragraph of project description goes here.
+Using this program you can draw half of a triangle using "*".
+The program uses for loops to create a triangle with a height and width of 5 "*".
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will draw a triangle on your local machine for your enjoyment. 
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+This project requires Python 3 (https://www.python.org/downloads/) to run, no additional programs are needed. The commands below will help you install Python 3 on a Windows computer.
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+1. Click on the provided link to Python 3 above.
+2. Click the download link for Python 3.
+3. Click your recent downloads in browser or go to file explorer and click on the Python   download.
+4. Follow the wizard to install Python 3. 
+5. Download the Python file onto your computer. 
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program by opening command prompt and typing this command format.
 
+py (file extension to the Python program)\(Python file name)
+
+example: 
 ```
-python cne_demo.py
+py Documents\GitHub\CNE310_mason\CNE330_week5_assignment.py
 ```
 
-Add any additional ways to run the program below
-
-```
-python cne_demo.py test.txt
-```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thanks to Python.org (https://docs.python.org/3/faq/windows.html) for reminding me how to run Python programs in the terminal.  
